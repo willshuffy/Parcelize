@@ -1,0 +1,2 @@
+rootProject.name='Parzelize'
+include ':app'
