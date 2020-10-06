@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Parzelize</string>
+    <string name="move_with_object">move with object</string>
+    <string name="object_received">object received</string>
 </resources>
